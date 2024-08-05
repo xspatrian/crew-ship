@@ -1,4 +1,4 @@
-# My own automation with my bloody handy scripts
+# My own automation with my bloody hands scripts
 This repository contains the automation scripts for bug bounty
 
 
